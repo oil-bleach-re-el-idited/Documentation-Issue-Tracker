@@ -1,6 +1,5 @@
 # https://github.com/marketplace/actions/github-script
 # https://github.com/orgs/community/discussions/25389#discussioncomment-3247738
-
 name: Label and assign issues when commented
 on: 
   issue_comment:
